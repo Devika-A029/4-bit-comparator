@@ -22,5 +22,5 @@ The comparison is done using **continuous assignment** with Verilog operators:
 assign A_greater = (A > B);
 assign A_equal   = (A == B);
 assign A_less    = (A < B);
-![image](https://github.com/user-attachments/assets/e0935c06-22ba-4d78-9a7a-c51e143fa77c)
+
 
